@@ -301,6 +301,11 @@ a:hover, a:active, a:focus {
   background: url('../images/a-bg.jpeg') no-repeat;
 }
 
+.background-5                 /*main-single-post*/
+ {
+  background: url('../images/sh-2.jpeg') no-repeat;
+}
+
 
 .main-gallery {
   background: url('../images/n2.jpeg') no-repeat;
