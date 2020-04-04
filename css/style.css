@@ -313,9 +313,8 @@ a:hover, a:active, a:focus {
 
 .background-7                 /*main-single-post*/
  {
-  background: url('../images/nike-bg.jpeg') no-repeat;
+  background: url('../images/nike-back.jpeg') no-repeat;
 }
-
 
 .main-gallery {
   background: url('../images/n2.jpeg') no-repeat;
