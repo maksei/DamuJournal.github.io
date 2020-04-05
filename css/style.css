@@ -316,6 +316,11 @@ a:hover, a:active, a:focus {
   background: url('../images/nike-back.jpeg') no-repeat;
 }
 
+.background-8                 /*main-single-post*/
+ {
+  background: url('../images/cor-m-bg.jpeg') no-repeat;
+}
+
 .main-gallery {
   background: url('../images/n2.jpeg') no-repeat;
 }
