@@ -331,6 +331,11 @@ a:hover, a:active, a:focus {
   background: url('../images/kyzdar-bg.jpeg') no-repeat;
 }
 
+.background-10                /*main-single-post*/
+ {
+  background: url('../images/post-m-back.jpeg') no-repeat;
+}
+
 .main-gallery {
   background: url('../images/n2.jpeg') no-repeat;
 }
